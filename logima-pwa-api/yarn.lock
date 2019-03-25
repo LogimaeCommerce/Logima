@@ -3045,7 +3045,7 @@ lru-cache@^4.0.1:
 
 "mage2logimapwa@git+https://github.com/LogimaeCommerce/mage2logimapwa.git":
   version "1.4.0"
-  resolved "git+https://github.com/LogimaeCommerce/mage2logimapwa.git#6d36b1c24612b557fb474441180e04cf57fef164"
+  resolved "git+https://github.com/DivanteLtd/mage2vuestorefront.git#6d36b1c24612b557fb474441180e04cf57fef164"
   dependencies:
     agentkeepalive "^3.3.0"
     body-parser "^1.17.1"
